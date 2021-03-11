@@ -18,9 +18,9 @@
   - [Matematik](sinif-10/matematik/README.md)
   - [Fizik](sinif-10/fizik/README.md)
   - [Kimya](sinif-10/kimya/README.md)
-    - [Kimyanın Temel Kanunları ve Kimyasal Hesaplamalar](sinif-10/kimya/un1-kimyanin-temel-kanunlari-ve-kimyasal-hesaplamalar/README.md)
-      - [Kimyanın Temel Kanunları](sinif-10/kimya/un1-kimyanin-temel-kanunlari-ve-kimyasal-hesaplamalar/kn1-1-kimyanin-temel-kanunlari.md)
-      - [Mol Kavramı](sinif-10/kimya/un1-kimyanin-temel-kanunlari-ve-kimyasal-hesaplamalar/kn1-2-mol-kavrami.md)
+    - [Kimyanın Temel Kanunları ve Kimyasal Hesaplamalar](sinif-10/kimya/b1-0-kimyanin-temel-kanunlari-ve-kimyasal-hesaplamalar.md)
+      - [Kimyanın Temel Kanunları](sinif-10/kimya/b1-1-kimyanin-temel-kanunlari.md)
+      - [Mol Kavramı](sinif-10/kimya/b1-2-mol-kavrami.md)
       - [Kimyasal Tepkimeler ve Denklemler]()
       - [Kimyasal Tepkimelerde Hesaplamalar]()
     - [Karışımlar]()
@@ -37,3 +37,4 @@
   - [Din Kültürü ve Ahlak Bilgisi](sinif-10/din/README.md)
 - [Sınıf 11]()
 - [Sınıf 12]()
+

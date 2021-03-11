@@ -1,1 +1,0 @@
-# Kimya Her Yerde
